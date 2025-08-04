@@ -35,3 +35,31 @@ If you have any questions about this Privacy Policy, please contact us at:
 **Daegil Pyo (AshStart)  
 Email:** dennis.pyooo@gmail.com
 **Location:** Toronto, Canada
+
+
+
+TetBee Account Deletion Guide
+
+# TetBee – Account Deletion Instructions
+
+You can delete your TetBee account directly from the mobile app.
+
+## How to delete your account:
+
+1. Open the TetBee app.
+2. Go to the top-right hamburger menu and tap “Settings. => Account Setting”
+3. Scroll down and tap “Delete Account.”
+4. Confirm your decision to delete the account. All associated data will be removed.
+
+## What data is deleted:
+
+- Your profile information (name, email, UID)
+- Your schedule and shift records
+- Chat history and messages
+- Any other associated personal data
+
+## Retention policy:
+- Once deleted, your data is **permanently removed** and **cannot be recovered.**
+
+If you need help, contact: `dennis.pyoo@gmail.com`
+
